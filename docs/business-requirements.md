@@ -1,7 +1,7 @@
 # Business Requirements Document
 
 ## Project Information
-
+git commit -m "docs: add printer management business requirements"
 | Item | Details |
 |---|---|
 | Project Name | PrintFlow |
@@ -9,7 +9,7 @@
 | Document Type | Business Requirements Document |
 | Version | 1.0 |
 | Status | Draft |
-| Author | Muhammad Nur Iman |
+| Prepared By | Muhammad Nur Iman |
 
 ## 1. Purpose
 
